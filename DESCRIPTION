@@ -1,0 +1,16 @@
+Package: QuaCP
+Title: Change-plane Analysis in Functional Response Quantile Regression
+Version: 0.1.0
+Author: Xin Guan [aut], 
+        Yiyuan Li [aut,cre],
+        Xu Liu [aut],
+        Jinhong You [aut]
+Maintainer: Yiyuan Li <liyiyuan@stu.sufe.edu.cn>
+Description: A Package of "Change-plane Analysis in Functional Response Quantile Regression". In the paper, we consider a change-plane model within the framework of functional response quantile regression, capable of identifying and testing subgroups in non-Gaussian functional responses with scalar predictors. The alternating direction method of multipliers algorithm is designed to estimate the function coefficients and grouping parameters in the proposed model, thereby dividing the population into different subgroups. To further test the existence of subgroups, we develop a weighted average of the squared score test statistic, which has a closed form and reduces computational burden. 
+License: GPL (>=2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+Imports: MASS, VGAM, Matrix, stats
+LazyData: true
