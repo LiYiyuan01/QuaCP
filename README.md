@@ -17,7 +17,7 @@ To further test the existence of subgroups, we develop a weighted average of the
     remotes::install_github("LiYiyuan01/QuaCP") 
 
 # Usage
- - [x] [QuaCP-manual.pdf](https://github.com/Liyiyuan01/QuaCP/blob/master/inst/QuaCP-manual.pdf) ---------- Details of the usage of the package.
+ - [x] [QuaCP-manual.pdf](https://github.com/LiYiyuan01/QuaCP/blob/master/inst/QuaCP-manual.pdf) ---------- Details of the usage of the package.
 
 
 # Reference
