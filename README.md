@@ -1,4 +1,4 @@
-# GFLRsit
+# QuaCP
  A Package of "Change-plane Analysis in Functional Response Quantile Regression". In the paper, 
  we consider a change-plane model within the framework of functional response quantile regression, 
  capable of identifying and testing subgroups in non-Gaussian functional responses with scalar predictors. 
