@@ -39,6 +39,10 @@ Boyd S, Parikh N, Chu E, Peleato B, Eckstein J (2011).
 Yuan M, Cai TT (2010). 
 "A Reproducing Kernel Hilbert Space Approach to Functional Linear Regression." 
 \emph{Annals of Statistics} 38(6):3412-3444. 
+
+Zhang Z, Wang X, Kong L, Zhu H (2022). 
+"High-Dimensional Spatial Quantile Function-on-Scalar Regression." 
+\emph{Journal of the American Statistical Association} 117:1563-1578. 
 }
 
 \examples{

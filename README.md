@@ -20,7 +20,7 @@ To further test the existence of subgroups, we develop a weighted average of the
  - [x] [QuaCP-manual.pdf](https://github.com/LiYiyuan01/QuaCP/blob/master/inst/QuaCP-manual.pdf) ---------- Details of the usage of the package.
 
 
-# Reference
+# References
 
 Guan X, Li Y, Liu X, You J (2025). Change-plane analysis in functional response quantile regression. arXiv:2503.07332. 
 
@@ -29,6 +29,8 @@ Liu X, Huang J, Zhou Y, Zhang F, Ren P (2024). Efficient subgroup testing in cha
 Boyd S, Parikh N, Chu E, Peleato B, Eckstein J (2011). Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers. Foundations and Trends in Machine Learning. 3(1):1-122. 
 
 Yuan M, Cai TT (2010). A Reproducing Kernel Hilbert Space Approach to Functional Linear Regression. Annals of Statistics. 38(6):3412-3444. 
+
+Zhang Z, Wang X, Kong L, Zhu H (2022). High-Dimensional Spatial Quantile Function-on-Scalar Regression. Journal of the American Statistical Association. 117:1563-1578. 
 
 # Development
 This R package is developed by Yiyuan Li (liyiyuan@stu.sufe.edu.cn ).
